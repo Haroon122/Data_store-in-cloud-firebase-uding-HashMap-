@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641731206098",
+    "project_id": "cloud-firestore-with-hashmap",
+    "storage_bucket": "cloud-firestore-with-hashmap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641731206098:android:9f508e4acd48199897460b",
+        "android_client_info": {
+          "package_name": "com.example.cloudfirestorewithhashmap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANFf3_Bc4HHSdst3oX25wGYSwfUALjBlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
